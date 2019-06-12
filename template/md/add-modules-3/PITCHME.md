@@ -1,7 +1,7 @@
 ---?color=#3A8FB7
 @snap[breadcrumbs-wrap bluescale]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
+- [ハンズオン講習会の流れ](#/3)
 - [3. Elixir モジュールの追加](#/)
 @olend
 @snapend
@@ -13,8 +13,8 @@
 ---
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Elixir モジュールの追加](#/32)
 @olend
 @snapend
 
@@ -26,19 +26,19 @@
 
 @snap[left-column]
 @ol[numberlist numberlist-color2](false)
-- [モジュールとは](#/)
-- [Visual Studio Code の起動](#/)
-- [モジュールの追加方法](#/)
-- [mix.exs のオープン](#/)
-- [smallex の追加](#/)
-- [確認](#/)
+- [モジュールとは](#/34)
+- [Visual Studio Code の起動](#/36)
+- [モジュールの追加方法](#/38)
+- [mix.exs のオープン](#/40)
+- [smallex の追加](#/42)
+- [確認](#/44)
 @olend
 @snapend
 
 @snap[right-column]
 @ol[numberlist numberlist-color2](false)
-- [smallex の使い方](#/)
-- [CUIで文字化けが起こるとき](#/)
+- [smallex の使い方](#/46)
+- [CUIで文字化けが起こるとき](#/48)
 @olend
 @snapend
 
@@ -47,8 +47,8 @@
 ---?color=#77B6D4
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [1. モジュールとは](#/)
 @olend
 @snapend
@@ -60,8 +60,8 @@
 ---
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [1. モジュールとは](#/)
 @olend
 @snapend
@@ -79,8 +79,8 @@
 ---?color=#77B6D4
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [2. Visual Studio Code の起動](#/)
 @olend
 @snapend
@@ -92,8 +92,8 @@
 ---
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [2. Visual Studio Code の起動](#/)
 @olend
 @snapend
@@ -121,8 +121,8 @@
 ---?color=#77B6D4
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [3. モジュールの追加方法](#/)
 @olend
 @snapend
@@ -134,8 +134,8 @@
 ---
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [3. モジュールの追加方法](#/)
 @olend
 @snapend
@@ -157,8 +157,8 @@
 ---?color=#77B6D4
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [4. mix.exs のオープン](#/)
 @olend
 @snapend
@@ -170,8 +170,8 @@
 ---
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [4. mix.exs のオープン](#/)
 @olend
 @snapend
@@ -193,8 +193,8 @@
 ---?color=#77B6D4
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [5. smallex の追加](#/)
 @olend
 @snapend
@@ -206,8 +206,8 @@
 ---
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [5. smallex の追加](#/)
 @olend
 @snapend
@@ -235,8 +235,8 @@
 ---?color=#77B6D4
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [6. 確認](#/)
 @olend
 @snapend
@@ -248,8 +248,8 @@
 ---
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [6. 確認](#/)
 @olend
 @snapend
@@ -282,8 +282,8 @@
 ---?color=#77B6D4
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [7. smallex の使い方](#/)
 @olend
 @snapend
@@ -295,8 +295,8 @@
 ---
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [7. smallex の使い方](#/)
 @olend
 @snapend
@@ -332,8 +332,8 @@
 ---?color=#77B6D4
 @snap[breadcrumbs-wrap lightbluescale]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [8. CUIで文字化けが起こるとき](#/)
 @olend
 @snapend
@@ -345,8 +345,8 @@
 ---
 @snap[breadcrumbs-wrap]
 @ol[breadcrumbs](false)
-- [ハンズオン講習会の流れ](#/2)
-- [3. Phoenix Elixir モジュールの追加](#/)
+- [ハンズオン講習会の流れ](#/3)
+- [3. Phoenix Elixir モジュールの追加](#/32)
 - [8. CUIで文字化けが起こるとき](#/)
 @olend
 @snapend
