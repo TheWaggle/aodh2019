@@ -25,8 +25,8 @@ theme-override : template/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : template/img/logo.png
-logo-position : top-right
+#logo : template/img/logo.png
+#logo-position : top-right
 
 #
 # Footnote Setting
@@ -58,11 +58,11 @@ transition : none
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GEOSPATIAL Hackers Program Hands-on"
-description : "GEOSPATIAL Hackers Program Hands-on"
+title : "Asia Open Data Hackathon Hands-on"
+description : "Asia Open Data Hackathon Hands-on"
 thumbnail : template/img/screenshot.png
 
-footnote : "Asia Open Data Hack a thon Hands-on" 
+footnote : "Asia Open Data Hackathon Hands-on" 
 
 # google Analitics
 gatoken : 
