@@ -67,7 +67,7 @@
 
 @snap[left-column]
 @ol[numberlist numberlist-color4](false)
-- mix phx.new aedmap
+- mix phx.new aodhmap
 - Y
 @olend
 @snapend
@@ -115,16 +115,16 @@
 
 @snap[left-column]
 @ol[numberlist numberlist-color4](false)
-- cd aedmap
+- cd aodhmap
 @olend
 @snapend
 
 @snap[right-column]
 @snap[gist-box half-gist-box]
 
-@gist[r zoom-10](yuki-thewaggle/90de4546ce732c14d5c82a23cd35c964)
+@gist[r zoom-10](Yoosuke/11ca063670bff4bf628c10eeb8dcfd35)
 
-@[1](aedmapに移動します)
+@[1](aodhmapに移動します)
 
 @snapend
 @snapend

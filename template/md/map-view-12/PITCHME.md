@@ -65,7 +65,7 @@
 
 @snap[slide-contents]
 
-@box[rounded box-style](**Visual Stdio Code** を利用します。```lib/aedmap_web/templates/location/index.html.eex```を開きます。)
+@box[rounded box-style](**Visual Stdio Code** を利用します。```lib/aodhmap_web/templates/location/index.html.eex```を開きます。)
 
 @ol[numberlist numberlist-color2](false)
 - index.html.eexの一番したの行に```<% %>```を追加します。

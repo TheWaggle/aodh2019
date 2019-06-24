@@ -64,7 +64,7 @@
 
 @snap[slide-contents]
 
-@box[rounded box-style](**Visual Stdio Code** を利用します。```lib/aedmap_web/templates/page/index.html.eex```を開きます。)
+@box[rounded box-style](**Visual Stdio Code** を利用します。```lib/aodhmap_web/templates/page/index.html.eex```を開きます。)
 
 @snap[gist-box half-gist-box]
 @gist[elixir zoom-08](Yoosuke/d56848eecd50e14924cf2be6f8d6b1d1)
