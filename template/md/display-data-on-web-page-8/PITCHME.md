@@ -64,10 +64,10 @@
 @box[rounded box-style]( **Visual Studio Code** を使って、<br>HTMLファイルを開きます。)
 
 @ol[numberlist numberlist-color4](true)
-- **lib/aedmap_web/templates/page/index.html.eex** を開きます。
+- **lib/aodhmap_web/templates/page/index.html.eex** を開きます。
 - 画面上部のメニューから「**View**」 > 「**Explorer**」 をクリックします。
 - 画面の左側に「**EXPLORER**」という枠が開きます。
-- 「EXPLORER」の中から「**lib/aedmap_web/templates/page/index.html.eex**」を捜してクリックします。
+- 「EXPLORER」の中から「**lib/aodhmap_web/templates/page/index.html.eex**」を捜してクリックします。
 @olend
 
 @snapend

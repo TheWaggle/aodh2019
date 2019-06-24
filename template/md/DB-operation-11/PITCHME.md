@@ -79,7 +79,7 @@
 [Ecto.Adapters.SQL](https://hexdocs.pm/ecto/2.2.8/Ecto.Adapters.SQL.html#query/4)
 
 @ol[numberlist numberlist-color2](false)
-- ```Ecto.Adapters.SQL.query( Aedmap.Repo  ,"SELECT * FROM locations", [])```
+- ```Ecto.Adapters.SQL.query( Aodhmap.Repo  ,"SELECT * FROM locations", [])```
 - 上記のコマンドをコピーしてCUIにペーストします。
 - ```{ status, struct }```というタプル型のデータが返ってきます。
 @olend

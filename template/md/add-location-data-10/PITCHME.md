@@ -225,8 +225,8 @@ SQLは大きく３つの体系から分類できます。
 @box[rounded box-style](**Visual Studio Code** を利用します。```router.ex```のファイルを開きます。)
 
 @ol[numberlist numberlist-color2](false)
-- [```lib/aedmap_web/router.ex```を開きます。](#/)
-- [```scope "/", AedmapWeb do pipe_through :browser```と書かれている箇所を探します](#/)
+- [```lib/aodhmap_web/router.ex```を開きます。](#/)
+- [```scope "/", aodhmapWeb do pipe_through :browser```と書かれている箇所を探します](#/)
 - [```get "/", PageController, :index```の直下に以下をペーストします。](#/)
 - [```resources "/locations", LocationController```](#/)
 @olend
@@ -390,7 +390,7 @@ AED設置場所csvデータをダウンロードします。<br>
 @ol[numberlist numberlist-color2](false)
 - [New Locationをクリック](http://localhost:4000/locations/new)
 - 緯度経度や名前を入力
-- 35.609226 139.730186 品川図書館
+- ケンブリッジ大学, 52.204267, 0.114909
 - SAVEをクリック
 @olend
 
@@ -434,8 +434,11 @@ AED設置場所csvデータをダウンロードします。<br>
 @box[rounded box-style](**ブラウザ**を利用します。```http://localhost:4000/locations```のページから、それぞれ入力・修正・削除ができます。)
 
 @ol[numberlist numberlist-color2](false)
-- [もう１件データを追加します](#/)
-- しながわ水族館, 35.588476、 139.737501
+- [次のデータを追加します](#/)
+- ビッグ・ベン, 51.500729, -0.124625
+- タワーブリッジ, 51.505456, -0.075357
+- バッキンガム宮殿, 51.501364, -0.14189
+- 大英博物館, 51.519413, -0.126957 
 @olend
 
 

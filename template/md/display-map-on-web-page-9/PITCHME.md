@@ -158,7 +158,7 @@
 @box[rounded box-style](**Visual Studio Code** を使って、**app.html.eex**に<br>先ほどコピーしたCDNを追加します。)
 
 @ol[numberlist numberlist-color4](true)
-- Visual Studio Codeのサイドバーにある**EXPLORER**より、**lib/aedmap_web/templates/layout/app.html.eex**を開きます。
+- Visual Studio Codeのサイドバーにある**EXPLORER**より、**lib/aodhmap_web/templates/layout/app.html.eex**を開きます。
 - **&lt;head&gt;タグと&lt;/head&gt;の終了タグの間（どこでも可）** に先ほどコピーしたタグをペーストします。
 @olend
 
@@ -233,7 +233,7 @@
 @box[rounded box-style]( **Visual Studio Code** を使って、**index.html.eex**ファイルにプログラムを加えます。)
 
 @ol[numberlist numberlist-color4](false)
-- ``` lib/aedmap_web/templates/page/index.html.eex ```を開きます。
+- ``` lib/aodhmap_web/templates/page/index.html.eex ```を開きます。
 
 - ページに先ほどコピーしたスクリプトをペーストします。
 - 追加したコードは、JavaScriptなので、```<script>先ほどコピーしたスクリプト</script>```で囲みます。
@@ -272,7 +272,7 @@
 @box[rounded box-style]( **Visual Studio Code** を使って、**app.html.eex**ファイルにスタイルを加えます。)
 
 @ol[numberlist numberlist-color4](false)
-- ``` lib/aedmap_web/templates/layout/app.html.eex ```を開きます。
+- ``` lib/aodhmap_web/templates/layout/app.html.eex ```を開きます。
 
 - ```</head>```の終了タグの上に、以下のタグを追記します。
 @olend

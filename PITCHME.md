@@ -3,7 +3,7 @@
 @snap[headline]
 
 @snap[byline headline-detail color4]
-@size[0.75em](GEOSPATIAL Hackers Program Hands-on)
+@size[0.75em](Asia Open Data Hackathon Hands-on)
 @snapend
 
 # オープンデータを<br>利用して<br>地図アプリを作ろう!
@@ -52,6 +52,7 @@
 - 地図にDataの反映　@css[detail-comment](位置情報を登録してWebに表示する)
 - ページ遷移の追加　@css[detail-comment](ページのリンクを追加する)
 - その他のJSライブラリ	@css[detail-comment](Geolocation APIやTURF.jsライブラリの紹介)
+- Here APIの紹介 @css[detail-comment](Here APIの使い方の紹介)
 @olend
 
 @snapend
@@ -65,7 +66,6 @@
 ---?include=template/md/how-to-test-Elixir-project-4/PITCHME.md
 
 ---?include=template/md/external-API-5/PITCHME.md
-
 
 ---?include=template/md/external-API-data-7/PITCHME.md
 
@@ -82,6 +82,8 @@
 ---?include=template/md/Page-transition-13/PITCHME.md
 
 ---?include=template/md/other-14/PITCHME.md
+
+---?include=template/md/here-API/PITCHME.md
 
 ---
 ### @css[slide-title](サンプルコード)
