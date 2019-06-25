@@ -88,7 +88,7 @@
 ---
 ### @css[slide-title](サンプルコード)
 
-今回作った[SampleCode](https://github.com/TheWaggle/GeoHack_sampleCode.git)はこちらです。
+今回作った[SampleCode](https://github.com/TheWaggle/aodhmap.git)はこちらです。
 
 ---
 ### @css[slide-title](Excelから関数型言語マスター)
